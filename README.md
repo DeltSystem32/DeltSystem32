@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeltSystem32
-- 👀 I’m interested in C#, Web APIs, infra, and architecture.
+- 👀 I’m interested in C#, Web APIs, cloud infra and security.
 - 🌱 I’m currently learning how to improve as a .NET Developer.
 - 💞️ I’m looking to collaborate on any projects which interest me.
 
